@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ros17app</string>
+    <string name="user_info">Bruger Info</string>
+    <string name="first_name">Fornavn</string>
+    <string name="last_name">Efternavn</string>
+    <string name="from">Fra</string>
+    <string name="phone">Tlf. Nr.</string>
+    <string name="save">Gem</string>
+    <string name="cancel">Annullér</string>
 </resources>
