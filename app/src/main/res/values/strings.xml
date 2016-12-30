@@ -1,10 +1,17 @@
 <resources>
     <string name="app_name">Ros17app</string>
-    <string name="user_info">Bruger Info</string>
+    <string name="user_info">Indtast brugerinfo</string>
+    <string name="user_info_file_key">com.specht.jonas.ros17app.USER_INFO_FILE_KEY</string>
+
     <string name="first_name">Fornavn</string>
     <string name="last_name">Efternavn</string>
     <string name="from">Fra</string>
     <string name="phone">Tlf. Nr.</string>
     <string name="save">Gem</string>
     <string name="cancel">Annullér</string>
+
+    <string name="saved_first_name">saved_first_name</string>
+    <string name="saved_last_name">saved_last_name</string>
+    <string name="saved_from">saved_from</string>
+    <string name="saved_phone">saved_phone</string>
 </resources>
