@@ -10,6 +10,20 @@
     <string name="save">Gem</string>
     <string name="cancel">Annullér</string>
 
+    <string name="lat">Lat:</string>
+    <string name="lon">Lon:</string>
+    <string name="ros_coord">RFK:</string>
+    <string name="description">Beskrivelse</string>
+    <string name="description_hint">Giv en kort beskrivelse af problemet</string>
+    <string name="send">Send</string>
+    <string-array name="category_array">
+        <item>Toilet</item>
+        <item>Vand</item>
+        <item>El</item>
+        <item>Hegn</item>
+        <item>Affald</item>
+    </string-array>
+
     <string name="saved_first_name">saved_first_name</string>
     <string name="saved_last_name">saved_last_name</string>
     <string name="saved_from">saved_from</string>
