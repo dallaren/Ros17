@@ -2,6 +2,13 @@
 <manifest package="com.specht.jonas.ros17app"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <uses-feature android:name="android.hardware.camera"/>
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+                     android:maxSdkVersion="18"/>
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"

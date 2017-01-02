@@ -9,7 +9,7 @@ import android.widget.*;
 
 public class UserInfoActivity extends AppCompatActivity {
 
-    SharedPreferences sharedPref;
+    private SharedPreferences sharedPref;
 
     private EditText firstNameText;
     private EditText lastNameText;

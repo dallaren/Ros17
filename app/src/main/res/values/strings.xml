@@ -15,7 +15,9 @@
     <string name="ros_coord">RFK:</string>
     <string name="description">Beskrivelse</string>
     <string name="description_hint">Giv en kort beskrivelse af problemet</string>
+    <string name="category">Type</string>
     <string name="send">Send</string>
+
     <string-array name="category_array">
         <item>Toilet</item>
         <item>Vand</item>
